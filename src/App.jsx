@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <img src={reactLogo} width='80px'/>
-      <h2>Buscador de CEP</h2>
+      <h2>Digite seu CEP</h2>
       <Formulario/>
       <h6></h6>
     </div>
